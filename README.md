@@ -2,7 +2,7 @@
 
 ## 👋 Olá, meu nome é <strong>Franco Lenner !</strong>
 
-👉 Participante do <strong>CodeClub</strong> 👈
+👉 Aluno do <strong>CodeClub</strong> 👈
 
 💬 Estou iniciando na programação, ja estou amando e a quero como minha profissão.
 
