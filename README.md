@@ -4,7 +4,7 @@
 
 👉 Aluno do <strong>CodeClub</strong> 👈
 
-💬 Estou iniciando na programação, ja estou amando e a quero como minha profissão.
+💬  Estou iniciando na programação, porém já estou amando e a escolhi como minha profissão.
 
 ----
 
