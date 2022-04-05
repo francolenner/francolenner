@@ -4,6 +4,8 @@
 
 👉 Aluno do <strong>DevClub</strong> 👈
 
+💬 Adoro tecnologia e estou sempre em busca de aprender mais.
+
 
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -26,3 +28,7 @@
 <a href="https://www.instagram.com/francolenner_/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+---
+
+[![card](https://github-readme-stats.vercel.app/api?username=francolenner&theme=highcontrast)](https://github.com/francolenner)
